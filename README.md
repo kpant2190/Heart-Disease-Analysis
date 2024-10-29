@@ -84,3 +84,5 @@ The EDA examines relationships between features and the target variable to ident
 ### Cholesterol Distribution by Age and Sex
 - **Description:** Box plot of cholesterol levels by age, split by gender.
 - **Observation:** Examines age-related trends and potential gender differences in cholesterol levels.
+
+Reference - https://www.linkedin.com/posts/ileonjose_python-dataanalysis-datavisualization-activity-7140722033717329923-h89N/?utm_source=share&utm_medium=member_desktop
